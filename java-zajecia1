@@ -1,0 +1,34 @@
+git svn tfs repozytorium
+
+JAVA
+Eclipse/NetBeans/Notepad/InteliJ
+
+Build -> ByteCode (kod źródłowy) -> MV (maszyna wirtualna - JRE)[wątki się tworzą]
+-> uruchomiona na systemie operacyjnym
+
+maszyna jest nie tylko do uruchamiania; GC garb.. coll.. niewiadomo gdzie sie odpala
+
+piszemy po ang.; nazwy klas wielką literą
+class MyFirstClass
+zmienna z małej litery
+
+new JavaProject (w src są wszystkie pliki źródłowe)
+klikam src -> New Java Package - pakiet nazywam: pl.lodz.uni.math.javaBeginnings.myFirstCalculator
+
+klikam na pakiet i New Class (public static void zaznaczyć),
+następnie stworzyć klasę kalkulator (2 zmienne) i w klasie myFirstCalculator tworzymy obiekt.
+ctrl + 1 - m.in. tworzymy klasę, create field
+dodać metodę add, 
+
+
+class A{
+	public void A(){
+	}
+}
+konstruktor bezargumentowy, który zostanie dokompilowany do bytecode'u
+
+
+static - w którym miejscu następuje inicjacja tej zmiennej statycznej (x)
+A-x=10 (klasa A ze zmienną statyczną; jest inaczej niż w C++)
+a) w momencie kompilowania kodu
+b) w momencie pierwszego uruchomienia danej klasy
