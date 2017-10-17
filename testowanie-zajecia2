@@ -1,0 +1,25 @@
+Apache JMeter Binaries zip/ dysk C katalog bez spacji
+dodaj request element threads
+
+HTTP Request Defaults - ip serwera i port
+HTTP Cookie Manager
+domyślny port www to 80
+HTTP Request - strona na jaką się łączę
+http://math.uni.lodz.pl:80/
+View Results in Table [słuchacze] - podgląd wyników
+
+bin/jmeter bat (plik wsadowny windows)
+
+repozytorium (commitować)
+
+grupa wątków - ustawiam ilość użytkowników i liczba uruchomień w ciagu sekundy
+
+http://math.uni.lodz.pl/~arekp/testowanie
+zad 1 - 3 linki [za 2 tyg nie ma zajęć (24.10)]
+trzeci link
+funkcja recording
+w brudnopisie (w JMeter) dodać element test recording
+znaleźć jakąś stronę, wlaczyc nagrywanie w jmeter, poklikac na tsronie i view table lista rzeczy które sie załadowaly jak sie ladowala strona;
+ekskludowac wszystkie png i jpg
+
+druga ikonka templates, recording create
