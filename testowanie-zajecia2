@@ -23,3 +23,33 @@ znaleźć jakąś stronę, wlaczyc nagrywanie w jmeter, poklikac na tsronie i vi
 ekskludowac wszystkie png i jpg
 
 druga ikonka templates, recording create
+
+
+
+
+
+
+jmeter 
+1) performance
+2) recording
+
+jmeter
+|
+|
+|
+v
+java jre 7>
+
+5 pytan o kukizach(cookie) za tydzien
+
+
+grupa watkow
+http request defaults
+http cookie manager
+sampler-> http request
+http://math.uni.lodz.pl:80/
+s³uchacze -> view result in table -> run
+kliknac miotle
+
+roznica miedzy getem,postem a deletem
+http://math.uni.lodz.pl/~arekp/testowanie
