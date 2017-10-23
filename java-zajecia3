@@ -9,4 +9,6 @@ class Single{ // obiekt z klasy Single po stworzeniu waży 100MB
 			return single;
 			
 			opcja A gdy odwolujemy sie do instancji
-			opcja B lazy - 
+			opcja B lazy
+			
+pakiet Domain
