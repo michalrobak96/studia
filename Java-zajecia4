@@ -1,0 +1,12 @@
+bitbucket rep
+class Single{ // obiekt z klasy Single po stworzeniu waży 100MB
+	private static Single single = null; // opcja A
+	new Single(); // opcja B
+	public static Single getInstance(){
+		if (single == null)
+			single = new Single(); // opcja A 
+			return Single(); // opcja B
+			return single;
+			
+			opcja A gdy odwolujemy sie do instancji
+			opcja B lazy - 
