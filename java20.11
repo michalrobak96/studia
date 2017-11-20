@@ -1,0 +1,43 @@
+jUNIT - testy jednostkowe
+
+http://math.uni.lodz.pl/~arekp/java/
+
+public class JunitTest
+{
+    @Test
+    public void test()
+}
+
+A{
+assert(a,b); Equals porownuje wartosc
+assert True (a<b);spr warunek logiczny sppelniony
+assert False (a<b); spr czy niespelniony
+assert Not Null (a);
+assert Null (b)
+_____
+assert Soe/Same? (a,b)
+assert NotSoe? (a,b)
+assert ArrayEquals (A1,A2); sprawdza tablice
+
+@BeforeClass - odpala sie w 1 kolejnosci
+@AfterClass - odpala sie na koncu
+@Before - przed kazdym testem
+@After - po kazdym tescie
+@Test
+@Ignore
+
+!!!!!!!!!!!!!!
+napisac gre bowling lub dart
+i udowodnic ze gra dziala za pomoca testow jednostkowych
+czyli w mainie nie ma zadnych linii kodu
+
+https://gist.github.com/felipernb/3981562
+
+
+
+
+
+
+
+do projektu factory (projekt fabryka) przetestowac factory
+za pomoca EasyMok lub mochito
